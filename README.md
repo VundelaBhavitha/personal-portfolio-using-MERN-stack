@@ -76,5 +76,3 @@ Deploy on services like **Render / Railway / Heroku**.
 
 
 
-Do you want me to also include **separate instructions for deploying** (like Netlify for frontend + Render for backend), so anyone cloning your repo can host it easily?
-```
